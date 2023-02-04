@@ -45,3 +45,6 @@ const abcd: ABC = function (a, b) {
 }
 
 abcd('a', 'b')
+
+
+export {}
